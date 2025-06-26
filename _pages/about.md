@@ -19,6 +19,8 @@ Hi there👋.Welcome to Jun Tan(谭俊) Page. I'm a second-year M.Sc. student at
 <strong>Jun Tan</strong>, <span>Jing Li<sup>*</sup></span>, Tianyue Ma, Xingguang Yan, Ziye Huo.
 *Frontiers in Forests and Global Change* 2025
 
+</div>
+</div>
 
 Create content & metadata
 ------
