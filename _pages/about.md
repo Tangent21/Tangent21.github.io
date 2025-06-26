@@ -21,7 +21,7 @@ Hi there👋.Welcome to Jun Tan(谭俊) Page. I'm a second-year M.Sc. student at
 
 <div style="clear: both;"></div>
 ---
-- <img src='images/soilcarbon.png' alt="sym" width="40%" align="left">
+- <img src='images/soilcarbon.png' alt="sym" style="float: left; width: 35%; margin-right: 20px;">
 [Fine Resolution Mapping of Forest Soil Organic Carbon Based on Feature Selection and Machine Learning Algorithm](https://www.mdpi.com/2072-4292/17/12/2000). 
 
 Yanan Li,Jing Li⁎, **Jun Tan**, Tianyue Ma, Xingguang Yan, Zongyang Chen, Kunheng Li.<br>
