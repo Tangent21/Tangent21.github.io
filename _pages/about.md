@@ -17,8 +17,8 @@ Hi there👋.Welcome to Jun Tan(谭俊) Page. I'm a second-year M.Sc. student at
 [Leveraging Sentinel-1/2 time series and deep learning for accurate forest tree species mapping](https://www.frontiersin.org/journals/forests-and-global-change/articles/10.3389/ffgc.2025.1599510/abstract). 
 
 **Jun Tan**, Jing Li⁎, Tianyue Ma, Xingguang Yan, Ziye Huo.<br>
-*Frontiers in Forests and Global Change* 2025
-<em style="font-size: 13px; color: #666;">Contribution: Methodology, Time series fusion, Deep learning, Writing.</em>
+*Frontiers in Forests and Global Change* 2025<br>
+<em style="font-size: 15px; color: #666;">Contribution: Methodology, Time series fusion, Deep learning, Writing.</em>
 
 <div style="clear: both;"></div>
 ---
