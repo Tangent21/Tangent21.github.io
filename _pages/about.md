@@ -18,6 +18,7 @@ Hi there👋.Welcome to Jun Tan(谭俊) Page. I'm a second-year M.Sc. student at
 
 **Jun Tan**, Jing Li⁎, Tianyue Ma, Xingguang Yan, Ziye Huo.<br>
 *Frontiers in Forests and Global Change* 2025
+<em style="font-size: 13px; color: #666;">Contribution: Methodology, Time series fusion, Deep learning, Writing.</em>
 
 <div style="clear: both;"></div>
 ---
