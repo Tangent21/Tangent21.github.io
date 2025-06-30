@@ -14,7 +14,7 @@ My research interest mainly focus on ecological and environmental remote sensing
 📝 Publications 
 ------
 
-- <img src='images/tree_map_ty_hd.jpg' alt="sym" style="float: left; width: 50%; margin-right: 20px;">
+- <img src='images/treespecies.jpg' alt="sym" style="float: left; width: 50%; margin-right: 20px;">
 [Leveraging Sentinel-1/2 time series and deep learning for accurate forest tree species mapping](https://www.frontiersin.org/journals/forests-and-global-change/articles/10.3389/ffgc.2025.1599510/abstract). *Frontiers in Forests and Global Change* 2025<br>
 
 **Jun Tan**, Jing Li⁎, Tianyue Ma, Xingguang Yan, Ziye Huo.<br>
