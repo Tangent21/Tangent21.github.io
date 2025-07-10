@@ -8,9 +8,7 @@ author_profile: true
 
 {% include base_path %}
 
-## Projects
+### Remote sensing monitoring method and cumulative effect evaluation of forest carbon storage in the coal-mining region of the middle Yellow River Basin
+(Funded by the National Key Research and Development Program of China,the Chinese government's China-US Intergovernmental Cooperation Program)
+Time: Jan 2023 – Dec 2025  
 
-### [Project Name](project-link)
-**Time**: June 2024 – Present  
-**Technologies Used**: Python, TensorFlow, Google Earth Engine, Remote Sensing  
-**Role**: Lead Data Scientist
