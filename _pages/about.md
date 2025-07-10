@@ -8,8 +8,8 @@ redirect_from:
 ---
 
 Hi there👋.Welcome to Jun Tan(谭俊) Page. I'm a second-year M.Sc. student(*graduating in June 2026*) at the [College of Geoscience and Surveying Engineering](https://dcxy.cumtb.edu.cn/) at China university of Mining and technology-Beijing, supervised by [Prof.Jing Li](https://dcxy.cumtb.edu.cn/info/1012/7048.htm).<br>
-My research interest mainly focus on ecological and environmental remote sensing, particularly in land surface monitoring, carbon stock dynamics, and the application of cloud computing platforms(e.g., Google Earth Engine, Google Colab) and AI-based models for better utilization and analysis of Earth Observation Data.
-
+My research interest mainly focus on ecological and environmental remote sensing, particularly in land surface monitoring, carbon stock dynamics, and the application of cloud computing platforms(e.g., Google Earth Engine, Google Colab) and AI-based models for better utilization and analysis of Earth Observation Data.<br>
+📧Contact: TanJun721@outlook.com / tanjun721@163.com
 
 📝 Publications 
 ------
