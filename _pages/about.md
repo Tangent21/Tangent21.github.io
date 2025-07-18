@@ -57,6 +57,6 @@ Key research tasks include: 1. Monitoring forest disturbances and extracting key
 ------
 Outside of academics, I enjoy sports, especially marathon running.
 <div style="display: flex; justify-content: center; gap: 20px; margin-bottom: 20px;">
-  <img src="images/running.jpg" alt="Running" style="width: 40%;">
-  <img src="images/cycle.jpg" alt="Cycling" style="width: 40%;">
+  <img src="images/running.jpg" alt="Running" style="width: 30%;">
+  <img src="images/cycle.jpg" alt="Cycling" style="width: 30%;">
 </div>
