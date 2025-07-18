@@ -36,7 +36,9 @@ Yanan Li,Jing Li⁎, **Jun Tan**, Tianyue Ma, Xingguang Yan, Zongyang Chen, Kunh
 💻 Projects
 ------
 **Remote sensing monitoring method and cumulative effect evaluation of forest carbon storage in the coal-mining region of the middle Yellow River Basin**<br>
-(Funded by the National Key Research and Development Program of China,the Chinese government's China-US Intergovernmental Cooperation Program, Jan 2023 – Dec 2025)<br>
+<em style="font-size: 15px; ">(Funded by the National Key Research and Development Program of China,the Chinese government's China-US Intergovernmental Cooperation Program, Jan 2023 – Dec 2025).</em>
+<div style="clear: both;"></div>
+
 *Main student researcher*<br>
 
 This project focuses on developing advanced methods for monitoring and estimating forest biomass and carbon storage, with an emphasis on mining-affected forest areas. It aims to uncover the spatiotemporal dynamics and cumulative effects of forest carbon stocks, and to establish quantitative approaches for assessing the ecological impacts of mining and restoration activities.
