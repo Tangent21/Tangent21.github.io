@@ -45,8 +45,12 @@ Yanan Li,Jing Li⁎, **Jun Tan**, Tianyue Ma, Xingguang Yan, Zongyang Chen, Kunh
 This project focuses on developing advanced methods for monitoring and estimating forest biomass and carbon storage, with an emphasis on mining-affected forest areas. It aims to uncover the spatiotemporal dynamics and cumulative effects of forest carbon stocks, and to establish quantitative approaches for assessing the ecological impacts of mining and restoration activities.<br>
 By integrating field measurements with Remote Sensing techniques, the project seeks to improving methods for extracting forest attributes and developing robust models for estimating carbon storage at regional scales.<br>
 <span>
-- <img src='images/fieldwork.jpg' alt="sym" style="display: block; margin: 0 auto; width: 75%;;">
+- <img src='images/fieldwork.jpg' alt="sym" style="display: block; margin: 0 auto; width: 80%;">
 <div style="clear: both;"></div>
+<span style="font-size: 16px;">
+Key research tasks include: 1. Monitoring forest disturbances and extracting key forest parameters (e.g., tree species, stand age, tree height); 2. Developing methods for estimating aboveground forest carbon storage; 3. Investigating the spatiotemporal variations and cumulative effects of carbon stocks under mining and restoration activities.
+<span>
+- <img src='images/outcomes.jpg' alt="sym" style="display: block; margin: 0 auto; width: 80%;">
 
 
 For more info
