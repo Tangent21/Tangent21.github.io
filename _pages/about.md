@@ -19,7 +19,7 @@ My research interest mainly focus on ecological and environmental remote sensing
 
 **Jun Tan**, Jing Li⁎, Tianyue Ma, Xingguang Yan, Ziye Huo.<br>
 
-<em style="font-size: 15px; color: #666;">Contribution: Methodology, Time series fusion, Deep learning, Writing.</em>
+<em style="font-size: 15px; color: #666;">Contribution: Methodology,Programming,Data processing, Result analysis, Article writing... .</em>
 
 <div style="clear: both;"></div>
 ---
@@ -28,7 +28,7 @@ My research interest mainly focus on ecological and environmental remote sensing
 
 Yanan Li,Jing Li⁎, **Jun Tan**, Tianyue Ma, Xingguang Yan, Zongyang Chen, Kunheng Li.<br>
 
-<em style="font-size: 15px; color: #666;">Contribution: Methodology, Time series fusion, Deep learning, Writing.</em>
+<em style="font-size: 15px; color: #666;">Contribution: Methodology, Programming, Data processing... .</em>
 
 <div style="clear: both;"></div>
 ---
