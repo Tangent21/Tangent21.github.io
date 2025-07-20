@@ -52,6 +52,10 @@ Key research tasks include: 1. Monitoring forest disturbances and extracting key
 <span>
 - <img src='images/outcomes.jpg' alt="outcomes" style="display: block; margin: 0 auto; width: 80%;">
 
+🔧 Experimental Trials
+------
+
+
 
 👦 More
 ------
