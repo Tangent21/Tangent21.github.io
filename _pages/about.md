@@ -54,7 +54,7 @@ Key research tasks include: 1. Monitoring forest disturbances and extracting key
 
 🔧 Experimental Trials
 ------
-- <img src='images/invest_carbon_habitat.gif' alt="fieldwork" style="display: block; margin: 0 auto; width: 100%;">
+- <img src='images/invest_carbon_habitat.gif' alt="demo" style="display: block; margin: 0 auto; width: 100%;">
 
 
 👦 More
