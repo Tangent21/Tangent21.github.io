@@ -55,7 +55,7 @@ Key research tasks include: 1. Monitoring forest disturbances and extracting key
 🔧 Experimental Trials
 ------
 <span style="font-size: 16px;">
-The goal of this demonstration app is to provide a fast ecosystem assessment tool based on GEE, incorporating certain functionalities of the InVEST model. Currently, it is in the early stages of development, utilizing existing data from the GEE repository to analyze Land Use, calculate Carbon Density and Storage, and assess Habitat Quality.
+The goal of this demonstration app is to provide a fast ecosystem assessment tool based on GEE, incorporating certain functionalities of the InVEST model. Currently, it is in the early stages of development, utilizing existing data from the GEE repository to analyze <strong>Land Use, Carbon Density and Storage, Habitat Quality</strong>.
 [GEE demo APP link](https://ee-tangent721.projects.earthengine.app/view/test430)
 <span>
 
